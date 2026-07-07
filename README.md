@@ -150,16 +150,6 @@ Jenkins/GitLab CI + ArgoCD + Prometheus/Loki/SkyWalking + Argo Rollouts
 
 ---
 
-## 🎯 2026 目标
-
-- 🔲 CKA 认证
-- 🔲 CKS 认证
-- 🔲 贡献一个 CNCF 开源项目
-- 🔲 深入 eBPF 可观测性
-- 🔲 构建 Multi-Agent 运维协作系统
-
----
-
 <p align="center">
   <i>"The best way to learn is to build."</i>
 </p>
